@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check Live Demo at [Dprivys News Reader AlanAI App](https://dprivys-news-reader.netlify.app/).
 
 ## Available Scripts
 
